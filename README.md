@@ -2,10 +2,10 @@
 
 #### Ver ejemplo en vivo
 
-
+https://hernangmorales.github.io/PopCinema/
 
 ### Preview Responsive Mockup
-![]()
+![](https://github.com/HernanGmorales/PopCinema/blob/master/PreviewResponsive.png)
 
 
 
